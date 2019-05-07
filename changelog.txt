@@ -1,0 +1,4 @@
+*** WooCommerce Subscriptions Changelog ***
+
+2017.08.30 - version 1.0
+ * First Release
